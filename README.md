@@ -1,5 +1,6 @@
 PREVIEW : https://imgur.com/a/simple-full-stack-app-demo-egst4OM
 This project is part of my learning journey in full-stack development. I created it to explore and understand the interaction between frontend and backend technologies, using React for the frontend and Node.js with Express for the backend. The frontend is structured with components, state management, and routing, while the backend handles API requests, data processing, and serves content using RESTful endpoints.
+![image](https://github.com/user-attachments/assets/d2f0ba31-1ba3-4510-8a08-f47cbb33a158)
 
 
 NOTE : TO RUN THIS PROJECT YOU NEED TO CREATE a .env file that contains the API key to MongoDB.
